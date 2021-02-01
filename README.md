@@ -1,8 +1,5 @@
 ### Hello World, I'm Tanzil [DarkCode][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://tislam.xyz)
-[![Instagram Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/it.tanzil/)
-
 ## I'm a Full Stack Web Developer, StackLearner, Good person😊 !!
 
 - 😇 I just launched A Web app:[See_on_my_website]!
